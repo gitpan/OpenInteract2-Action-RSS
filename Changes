@@ -1,0 +1,9 @@
+Revision history for Perl extension OpenInteract2::Action::RSS.
+
+0.03  Sun Dec  5 15:45:07 EST 2004
+
+  - Errors should be displayed as content -- don't use 'add_error()'.
+
+0.02  Wed Dec  1 22:51:10 EST 2004
+
+  - First version, everything is new! (At least as far as you know.)
