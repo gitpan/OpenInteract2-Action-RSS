@@ -33,7 +33,8 @@ Step 2:
 
 # Create an action in your package's conf/action.ini that gets the
 # recent uploads to CPAN, overrides the title from the feed, uses the
-# default display template, and caches the results for three hours:
+# default display template, and caches the feed and results for three
+# hours:
 
 [myaction]
 action_type  = rss
@@ -64,7 +65,7 @@ Chris Winters <chris@cwinters.com>
 COPYRIGHT AND DISCLAIMER
 ========================================
 
-OpenInteract2::Action::RSS Copyright (c) 2004 Chris Winters. All
+OpenInteract2::Action::RSS Copyright (c) 2004-5 Chris Winters. All
 rights reserved.
 
 This program is free software; you can redistribute it and/or modify
